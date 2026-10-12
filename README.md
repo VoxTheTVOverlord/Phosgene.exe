@@ -1,0 +1,1 @@
+Half dangerous and safe Phosgene.exe GDI Virus Malware. I am NOT responsible if you download this on a real PC and run it and it bricks your Windows Bootloader. Download it and test it on a Virtual Machine using Virutal Box or Hyper-V. (VMware.)
